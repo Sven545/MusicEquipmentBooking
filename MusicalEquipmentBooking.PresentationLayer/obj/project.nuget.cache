@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "0muc07AbDRfWMnzLSxtB+7D26Ka33QvDUnXJrhvFz643C7BIMS4j0TnbIRHaXpPvCAR9I/dCzZqbYpWzcc9TGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Desktop\\Projects\\MusicalEquipmentBooking\\MusicalEquipmentBooking.PresentationLayer\\MusicalEquipmentBooking.PresentationLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\swashbuckle.aspnetcore\\6.3.2\\swashbuckle.aspnetcore.6.3.2.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.3.2\\swashbuckle.aspnetcore.swagger.6.3.2.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.3.2\\swashbuckle.aspnetcore.swaggergen.6.3.2.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.3.2\\swashbuckle.aspnetcore.swaggerui.6.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}
