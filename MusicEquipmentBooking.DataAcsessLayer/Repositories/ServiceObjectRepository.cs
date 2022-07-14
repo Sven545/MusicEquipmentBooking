@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using MusicEquipmentBooking.DataAcsessLayer.Interfaces;
+﻿using MusicEquipmentBooking.DataAcsessLayer.Interfaces;
 using MusicEquipmentBooking.DataAcsessLayer.Entities;
 using MusicEquipmentBooking.DataAcsessLayer.EntityFramework;
 using Microsoft.EntityFrameworkCore;
@@ -17,13 +12,27 @@ namespace MusicEquipmentBooking.DataAcsessLayer.Repositories
         {
             using (DataBaseContext dbContext = new DataBaseContext())
             {
-                dbContext.Add(item);
-                dbContext.SaveChanges();
+                try
+                {
+                    dbContext.Add(item);
+                    dbContext.SaveChanges();
 
-                var lastNumber = (from el in dbContext.ServiceObjects
-                                 orderby el.Id descending
-                                 select el.Id).FirstOrDefault();
-                return lastNumber;
+                    var lastNumber = (from el in dbContext.ServiceObjects
+                                      orderby el.Id descending
+                                      select el.Id).FirstOrDefault();
+                    return lastNumber;
+                }
+                catch(DbUpdateException ex)
+                {
+                    if(ex.InnerException!=null)
+                    {
+                        throw new ArgumentException(ex.InnerException.Message);                     
+                    }
+                    
+                }
+               
+                return -1;
+                
             }
             
         }
@@ -55,20 +64,30 @@ namespace MusicEquipmentBooking.DataAcsessLayer.Repositories
             }
 
         }
-        /*
-        public ServiceObject GetLast()
+       
+        public int Update(ServiceObject item)
         {
             using (DataBaseContext dbContext = new DataBaseContext())
             {
-                return dbContext.ServiceObjects.LastOrDefault();
-            }
-        }
-        */
-        public void Update(ServiceObject item)
-        {
-            using (DataBaseContext dbContext = new DataBaseContext())
-            {
-                dbContext.Entry(item).State = EntityState.Modified;
+                try
+                {
+                    var objectForUpdate = dbContext.ServiceObjects.First(x => x.Id == item.Id);
+                    objectForUpdate.Name = item.Name;
+                    objectForUpdate.Amount = item.Amount;
+                    dbContext.Entry(objectForUpdate).State = EntityState.Modified;
+                    dbContext.SaveChanges();
+                    return item.Id;
+                }
+                catch (DbUpdateException ex)
+                {
+                    if (ex.InnerException != null)
+                    {
+                        throw new ArgumentException(ex.InnerException.Message);
+                    }
+
+                }
+                return -1;
+
             }
 
         }

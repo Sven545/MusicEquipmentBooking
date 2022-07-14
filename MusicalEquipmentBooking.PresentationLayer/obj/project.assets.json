@@ -2358,19 +2358,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\Александр\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\Projects\\MusicalEquipmentBooking\\MusicalEquipmentBooking.PresentationLayer\\MusicalEquipmentBooking.PresentationLayer.csproj",
+      "projectUniqueName": "C:\\Users\\Александр\\Desktop\\Projects\\MusicEquipmentBooking\\MusicEquipmentBooking\\MusicalEquipmentBooking.PresentationLayer\\MusicalEquipmentBooking.PresentationLayer.csproj",
       "projectName": "MusicalEquipmentBooking.PresentationLayer",
-      "projectPath": "C:\\Users\\User\\Desktop\\Projects\\MusicalEquipmentBooking\\MusicalEquipmentBooking.PresentationLayer\\MusicalEquipmentBooking.PresentationLayer.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\Projects\\MusicalEquipmentBooking\\MusicalEquipmentBooking.PresentationLayer\\obj\\",
+      "projectPath": "C:\\Users\\Александр\\Desktop\\Projects\\MusicEquipmentBooking\\MusicEquipmentBooking\\MusicalEquipmentBooking.PresentationLayer\\MusicalEquipmentBooking.PresentationLayer.csproj",
+      "packagesPath": "C:\\Users\\Александр\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Александр\\Desktop\\Projects\\MusicEquipmentBooking\\MusicEquipmentBooking\\MusicalEquipmentBooking.PresentationLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Александр\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2384,8 +2384,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\User\\Desktop\\Projects\\MusicalEquipmentBooking\\MusicEquipmentBooking.BusinessLogicLayer\\MusicEquipmentBooking.BusinessLogicLayer.csproj": {
-              "projectPath": "C:\\Users\\User\\Desktop\\Projects\\MusicalEquipmentBooking\\MusicEquipmentBooking.BusinessLogicLayer\\MusicEquipmentBooking.BusinessLogicLayer.csproj"
+            "C:\\Users\\Александр\\Desktop\\Projects\\MusicEquipmentBooking\\MusicEquipmentBooking\\MusicEquipmentBooking.BusinessLogicLayer\\MusicEquipmentBooking.BusinessLogicLayer.csproj": {
+              "projectPath": "C:\\Users\\Александр\\Desktop\\Projects\\MusicEquipmentBooking\\MusicEquipmentBooking\\MusicEquipmentBooking.BusinessLogicLayer\\MusicEquipmentBooking.BusinessLogicLayer.csproj"
             }
           }
         }

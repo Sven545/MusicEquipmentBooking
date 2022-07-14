@@ -1,10 +1,9 @@
 ﻿
 namespace MusicEquipmentBooking.BusinessLogicLayer.DataTransferObjects
 {
-    public class ServiceObjectDTOToDb
+    public class BookingDTO
     {
-
-        public string? Name { get; set; }
+        public int Id { get; set; }
         public int Amount { get; set; }
     }
 }

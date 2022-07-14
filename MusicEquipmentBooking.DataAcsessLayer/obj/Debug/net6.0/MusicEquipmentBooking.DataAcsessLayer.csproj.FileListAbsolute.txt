@@ -10,3 +10,15 @@ C:\Users\User\Desktop\Projects\MusicalEquipmentBooking\MusicEquipmentBooking.Dat
 C:\Users\User\Desktop\Projects\MusicalEquipmentBooking\MusicEquipmentBooking.DataAcsessLayer\obj\Debug\net6.0\MusicEquipmentBooking.DataAcsessLayer.dll
 C:\Users\User\Desktop\Projects\MusicalEquipmentBooking\MusicEquipmentBooking.DataAcsessLayer\obj\Debug\net6.0\ref\MusicEquipmentBooking.DataAcsessLayer.dll
 C:\Users\User\Desktop\Projects\MusicalEquipmentBooking\MusicEquipmentBooking.DataAcsessLayer\obj\Debug\net6.0\MusicEquipmentBooking.DataAcsessLayer.pdb
+C:\Users\Александр\Desktop\Projects\MusicEquipmentBooking\MusicEquipmentBooking\MusicEquipmentBooking.DataAcsessLayer\bin\Debug\net6.0\MusicEquipmentBooking.DataAcsessLayer.deps.json
+C:\Users\Александр\Desktop\Projects\MusicEquipmentBooking\MusicEquipmentBooking\MusicEquipmentBooking.DataAcsessLayer\bin\Debug\net6.0\MusicEquipmentBooking.DataAcsessLayer.dll
+C:\Users\Александр\Desktop\Projects\MusicEquipmentBooking\MusicEquipmentBooking\MusicEquipmentBooking.DataAcsessLayer\bin\Debug\net6.0\ref\MusicEquipmentBooking.DataAcsessLayer.dll
+C:\Users\Александр\Desktop\Projects\MusicEquipmentBooking\MusicEquipmentBooking\MusicEquipmentBooking.DataAcsessLayer\bin\Debug\net6.0\MusicEquipmentBooking.DataAcsessLayer.pdb
+C:\Users\Александр\Desktop\Projects\MusicEquipmentBooking\MusicEquipmentBooking\MusicEquipmentBooking.DataAcsessLayer\obj\Debug\net6.0\MusicEquipmentBooking.DataAcsessLayer.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\Projects\MusicEquipmentBooking\MusicEquipmentBooking\MusicEquipmentBooking.DataAcsessLayer\obj\Debug\net6.0\MusicEquipmentBooking.DataAcsessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Desktop\Projects\MusicEquipmentBooking\MusicEquipmentBooking\MusicEquipmentBooking.DataAcsessLayer\obj\Debug\net6.0\MusicEquipmentBooking.DataAcsessLayer.AssemblyInfoInputs.cache
+C:\Users\Александр\Desktop\Projects\MusicEquipmentBooking\MusicEquipmentBooking\MusicEquipmentBooking.DataAcsessLayer\obj\Debug\net6.0\MusicEquipmentBooking.DataAcsessLayer.AssemblyInfo.cs
+C:\Users\Александр\Desktop\Projects\MusicEquipmentBooking\MusicEquipmentBooking\MusicEquipmentBooking.DataAcsessLayer\obj\Debug\net6.0\MusicEquipmentBooking.DataAcsessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\Projects\MusicEquipmentBooking\MusicEquipmentBooking\MusicEquipmentBooking.DataAcsessLayer\obj\Debug\net6.0\MusicEquipmentBooking.DataAcsessLayer.dll
+C:\Users\Александр\Desktop\Projects\MusicEquipmentBooking\MusicEquipmentBooking\MusicEquipmentBooking.DataAcsessLayer\obj\Debug\net6.0\ref\MusicEquipmentBooking.DataAcsessLayer.dll
+C:\Users\Александр\Desktop\Projects\MusicEquipmentBooking\MusicEquipmentBooking\MusicEquipmentBooking.DataAcsessLayer\obj\Debug\net6.0\MusicEquipmentBooking.DataAcsessLayer.pdb

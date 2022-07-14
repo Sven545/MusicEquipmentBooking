@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\Projects\\MusicalEquipmentBooking\\MusicEquipmentBooking.DataAcsessLayer\\MusicEquipmentBooking.DataAcsessLayer.csproj": {}
+    "C:\\Users\\Александр\\Desktop\\Projects\\MusicEquipmentBooking\\MusicEquipmentBooking\\MusicEquipmentBooking.DataAcsessLayer\\MusicEquipmentBooking.DataAcsessLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\Projects\\MusicalEquipmentBooking\\MusicEquipmentBooking.DataAcsessLayer\\MusicEquipmentBooking.DataAcsessLayer.csproj": {
+    "C:\\Users\\Александр\\Desktop\\Projects\\MusicEquipmentBooking\\MusicEquipmentBooking\\MusicEquipmentBooking.DataAcsessLayer\\MusicEquipmentBooking.DataAcsessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\Projects\\MusicalEquipmentBooking\\MusicEquipmentBooking.DataAcsessLayer\\MusicEquipmentBooking.DataAcsessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Александр\\Desktop\\Projects\\MusicEquipmentBooking\\MusicEquipmentBooking\\MusicEquipmentBooking.DataAcsessLayer\\MusicEquipmentBooking.DataAcsessLayer.csproj",
         "projectName": "MusicEquipmentBooking.DataAcsessLayer",
-        "projectPath": "C:\\Users\\User\\Desktop\\Projects\\MusicalEquipmentBooking\\MusicEquipmentBooking.DataAcsessLayer\\MusicEquipmentBooking.DataAcsessLayer.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\Projects\\MusicalEquipmentBooking\\MusicEquipmentBooking.DataAcsessLayer\\obj\\",
+        "projectPath": "C:\\Users\\Александр\\Desktop\\Projects\\MusicEquipmentBooking\\MusicEquipmentBooking\\MusicEquipmentBooking.DataAcsessLayer\\MusicEquipmentBooking.DataAcsessLayer.csproj",
+        "packagesPath": "C:\\Users\\Александр\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Александр\\Desktop\\Projects\\MusicEquipmentBooking\\MusicEquipmentBooking\\MusicEquipmentBooking.DataAcsessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Александр\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

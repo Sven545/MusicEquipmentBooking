@@ -7,9 +7,10 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddMvc();
 builder.Services.AddTransient<ICrudService<ServiceObjectDTO>,ServiceObjectCrudService>();
+builder.Services.AddSingleton<IBookingService, BookingService>();
 builder.Services.AddSwaggerGen(c =>
 {
-    c.SwaggerDoc("v1", new OpenApiInfo { Title = "Music", Version = "v1" });
+    c.SwaggerDoc("v1", new OpenApiInfo { Title = "MusicEquipmentBooking", Version = "v1" });
 });
 
 var app = builder.Build();
@@ -27,7 +28,6 @@ app.UseEndpoints(endpoints =>
 });
 
 app.UseSwagger();
-app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "Music v1"));
-//app.MapGet("/", () => "Hello World!");
+app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "MusicEquipmentBooking v1"));
 
 app.Run();
