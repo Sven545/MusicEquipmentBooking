@@ -10,4 +10,8 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.3.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\MusicEquipmentBooking.BusinessLogicLayer\MusicEquipmentBooking.BusinessLogicLayer.csproj" />
+  </ItemGroup>
+
 </Project>

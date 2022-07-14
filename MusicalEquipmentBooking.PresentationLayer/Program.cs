@@ -1,8 +1,12 @@
 using Microsoft.OpenApi.Models;
+using MusicEquipmentBooking.BusinessLogicLayer.Interfaces;
+using MusicEquipmentBooking.BusinessLogicLayer.Services;
+using MusicEquipmentBooking.BusinessLogicLayer.DataTransferObjects;
 
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddMvc();
+builder.Services.AddTransient<ICrudService<ServiceObjectDTO>,ServiceObjectCrudService>();
 builder.Services.AddSwaggerGen(c =>
 {
     c.SwaggerDoc("v1", new OpenApiInfo { Title = "Music", Version = "v1" });

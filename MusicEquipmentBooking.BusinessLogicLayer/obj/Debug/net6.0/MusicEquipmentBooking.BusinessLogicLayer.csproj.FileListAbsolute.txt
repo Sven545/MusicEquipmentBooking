@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Projects\MusicalEquipmentBooking\MusicEquipmentBooking.BusinessLogicLayer\bin\Debug\net6.0\MusicEquipmentBooking.BusinessLogicLayer.deps.json
+C:\Users\User\Desktop\Projects\MusicalEquipmentBooking\MusicEquipmentBooking.BusinessLogicLayer\bin\Debug\net6.0\MusicEquipmentBooking.BusinessLogicLayer.dll
+C:\Users\User\Desktop\Projects\MusicalEquipmentBooking\MusicEquipmentBooking.BusinessLogicLayer\bin\Debug\net6.0\ref\MusicEquipmentBooking.BusinessLogicLayer.dll
+C:\Users\User\Desktop\Projects\MusicalEquipmentBooking\MusicEquipmentBooking.BusinessLogicLayer\bin\Debug\net6.0\MusicEquipmentBooking.BusinessLogicLayer.pdb
+C:\Users\User\Desktop\Projects\MusicalEquipmentBooking\MusicEquipmentBooking.BusinessLogicLayer\obj\Debug\net6.0\MusicEquipmentBooking.BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Projects\MusicalEquipmentBooking\MusicEquipmentBooking.BusinessLogicLayer\obj\Debug\net6.0\MusicEquipmentBooking.BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Projects\MusicalEquipmentBooking\MusicEquipmentBooking.BusinessLogicLayer\obj\Debug\net6.0\MusicEquipmentBooking.BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Projects\MusicalEquipmentBooking\MusicEquipmentBooking.BusinessLogicLayer\obj\Debug\net6.0\MusicEquipmentBooking.BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\User\Desktop\Projects\MusicalEquipmentBooking\MusicEquipmentBooking.BusinessLogicLayer\obj\Debug\net6.0\MusicEquipmentBooking.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projects\MusicalEquipmentBooking\MusicEquipmentBooking.BusinessLogicLayer\obj\Debug\net6.0\MusicEquipmentBooking.BusinessLogicLayer.dll
+C:\Users\User\Desktop\Projects\MusicalEquipmentBooking\MusicEquipmentBooking.BusinessLogicLayer\obj\Debug\net6.0\ref\MusicEquipmentBooking.BusinessLogicLayer.dll
+C:\Users\User\Desktop\Projects\MusicalEquipmentBooking\MusicEquipmentBooking.BusinessLogicLayer\obj\Debug\net6.0\MusicEquipmentBooking.BusinessLogicLayer.pdb
+C:\Users\User\Desktop\Projects\MusicalEquipmentBooking\MusicEquipmentBooking.BusinessLogicLayer\bin\Debug\net6.0\MusicEquipmentBooking.DataAcsessLayer.dll
+C:\Users\User\Desktop\Projects\MusicalEquipmentBooking\MusicEquipmentBooking.BusinessLogicLayer\bin\Debug\net6.0\MusicEquipmentBooking.DataAcsessLayer.pdb
+C:\Users\User\Desktop\Projects\MusicalEquipmentBooking\MusicEquipmentBooking.BusinessLogicLayer\obj\Debug\net6.0\MusicEquipmentBooking.BusinessLogicLayer.csproj.CopyComplete
